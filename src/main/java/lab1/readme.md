@@ -5,3 +5,4 @@ This is my 1st Lab in COMP3111 - Software Engineering
 
 Here's the screenshot of my 1st lab project in intelliJ.
 
+![Screenshot](./intelliJproject.png)
